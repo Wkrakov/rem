@@ -1,0 +1,16 @@
+cookie:
+  expiry_days: 30
+  key: time_student_app_secret_key_2024
+  name: time_student_auth_cookie
+credentials:
+  usernames:
+    user1:
+      email: user1@example.com
+      name: Пользователь 1
+      password: $2b$12$LQv3c1yqBWVHxkd0LHAkCOYz6TtxMQJqhN8/LewdBPj/RK.PZvO.S
+    user2:
+      email: user2@example.com
+      name: Пользователь 2
+      password: $2b$12$V/RcF31k31N89s9b5u8zOu9.NaQ.1nJ4zHwvL8pF1zK9z1nJ4zHwv
+preauthorized:
+  emails: []
